@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\bin\Debug\net7.0\LinearSearch.exe
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\bin\Debug\net7.0\LinearSearch.deps.json
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\bin\Debug\net7.0\LinearSearch.runtimeconfig.json
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\bin\Debug\net7.0\LinearSearch.dll
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\bin\Debug\net7.0\LinearSearch.pdb
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\LinearSearch.AssemblyInfo.cs
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\LinearSearch.dll
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\refint\LinearSearch.dll
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\LinearSearch.pdb
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\LinearSearch.genruntimeconfig.cache
+C:\Users\DCL\source\repos\DataStructureAndAlgorithm\LinearSearch\obj\Debug\net7.0\ref\LinearSearch.dll

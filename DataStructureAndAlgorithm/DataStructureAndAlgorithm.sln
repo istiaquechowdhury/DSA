@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{B80E0A11-3F62-4BCD-ABF4-16C50E9945FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{4D257E16-5C26-4D20-8B77-051C2960E91E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearSearchPractice", "LinearSearchPractice\LinearSearchPractice.csproj", "{1002D055-FAB3-4845-9EC3-6EF4E5CABB28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearchPractice", "BinarySearchPractice\BinarySearchPractice.csproj", "{8204248B-9663-4942-A7CD-4187C4918962}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{78A64C7F-992C-46AB-80DF-AC6AEC7EDEE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeOfSelectionSort", "PracticeOfSelectionSort\PracticeOfSelectionSort.csproj", "{485FDD8D-44B4-404F-9770-3CF073A81819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{180C50AE-D0EA-44C1-8C26-2D1BEBA7084A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80E0A11-3F62-4BCD-ABF4-16C50E9945FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80E0A11-3F62-4BCD-ABF4-16C50E9945FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80E0A11-3F62-4BCD-ABF4-16C50E9945FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80E0A11-3F62-4BCD-ABF4-16C50E9945FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D257E16-5C26-4D20-8B77-051C2960E91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D257E16-5C26-4D20-8B77-051C2960E91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D257E16-5C26-4D20-8B77-051C2960E91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D257E16-5C26-4D20-8B77-051C2960E91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1002D055-FAB3-4845-9EC3-6EF4E5CABB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1002D055-FAB3-4845-9EC3-6EF4E5CABB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1002D055-FAB3-4845-9EC3-6EF4E5CABB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1002D055-FAB3-4845-9EC3-6EF4E5CABB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8204248B-9663-4942-A7CD-4187C4918962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8204248B-9663-4942-A7CD-4187C4918962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8204248B-9663-4942-A7CD-4187C4918962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8204248B-9663-4942-A7CD-4187C4918962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A64C7F-992C-46AB-80DF-AC6AEC7EDEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A64C7F-992C-46AB-80DF-AC6AEC7EDEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A64C7F-992C-46AB-80DF-AC6AEC7EDEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A64C7F-992C-46AB-80DF-AC6AEC7EDEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485FDD8D-44B4-404F-9770-3CF073A81819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485FDD8D-44B4-404F-9770-3CF073A81819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485FDD8D-44B4-404F-9770-3CF073A81819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485FDD8D-44B4-404F-9770-3CF073A81819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180C50AE-D0EA-44C1-8C26-2D1BEBA7084A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180C50AE-D0EA-44C1-8C26-2D1BEBA7084A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180C50AE-D0EA-44C1-8C26-2D1BEBA7084A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180C50AE-D0EA-44C1-8C26-2D1BEBA7084A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD04E22-86C2-451F-A8C4-48BE4AC0ED2A}
+	EndGlobalSection
+EndGlobal
